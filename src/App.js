@@ -44,12 +44,12 @@ function App() {
             <div className="section2_container">
                 <div className="left_side">
                     <h2>About Me</h2>
-                    <p>Hello! I am <strong>Krishna Sharma S,</strong> a final year student undertaking my B.Tech in Computer Science Engineering at Amrita Vishwa Vidhyapeetham, Coimbatore.</p>
+                    <p>Hello! I am <strong>Krishna Sharma S,</strong> an enthusiastic student undertaking my M.Tech in Computer Science at Indian Institute of Information Technology, Lucknow.</p>
                     <p>I love to make websites and have a good knowledge in the field of Machine Learning and Data Science.</p>
-                    <p>My hobbies include Digital Art and Chess.</p>
+                    <p>My hobbies include Anime, Digital Art and Chess.</p>
                     <div className="buttons">
                         <div class="button button1" onClick={handleScroll}>Projects</div>
-                        <a href="https://drive.google.com/file/d/1pO0SpJMcckYm7U0tHNy_e5hTkUnJWcVJ/view?usp=sharing">
+                        <a href="https://drive.google.com/file/d/1yA_DaRcT1EKSciO81DPRiXzh-up3R6YN/view?usp=sharing">
                             <div class="button button1">Resume</div>
                         </a>
                     </div>
